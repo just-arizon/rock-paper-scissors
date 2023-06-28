@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-This repository contains a simple implementation of the classic game "Rock-Paper-Scissors" in JavaScript. The game allows two players to compete against the computer in a series of rounds, choosing between rock, paper, or scissors to determine the winner.
+This repository contains a simple implementation of the classic game "Rock-Paper-Scissors" part #1 in JavaScript. The game allows two players to compete against the computer in a series of rounds, choosing between rock, paper, or scissors to determine the winner.
 # Plans
 - Player vs. Computer mode: A single player can play against the computer AI, which makes its choices based on a set of predefined rules.
 - Interactive gameplay: The game provides a user-friendly interface that prompts players for their choices and displays the results of each round.
